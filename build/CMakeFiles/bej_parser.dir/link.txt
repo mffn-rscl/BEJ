@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/bej_parser.dir/link.d CMakeFiles/bej_parser.dir/src/main.c.o CMakeFiles/bej_parser.dir/src/bej_parse.c.o CMakeFiles/bej_parser.dir/src/dictionary.c.o -o bej_parser

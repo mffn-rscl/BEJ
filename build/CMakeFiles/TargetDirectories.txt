@@ -1,0 +1,3 @@
+/home/wissp/Data/files/c-cpp-files/projects/BEJ/build/CMakeFiles/bej_parser.dir
+/home/wissp/Data/files/c-cpp-files/projects/BEJ/build/CMakeFiles/edit_cache.dir
+/home/wissp/Data/files/c-cpp-files/projects/BEJ/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+{
+  "CapacityMiB": 65536,
+  "DataWidthBits": 64,
+  "ErrorCorrection": "NoECC",
+  "MemoryLocation": {
+    "Channel": 0,
+    "Slot": 0
+  }
+}
