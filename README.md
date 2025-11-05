@@ -32,11 +32,6 @@ cmake ..
 make
 ```
 
-### Manual compilation
-```bash
-gcc src/main.c src/bej_parse.c src/dictionary.c -Iinclude -o bej_parser
-```
-
 ## Running
 ```bash
 ./bej_parser
@@ -82,10 +77,7 @@ Input BEJ data represents:
 
 ## Requirements
 
-- C99 compiler (gcc/clang)
+- C compiler (gcc/clang)
 - CMake 3.10+ (optional)
 - Doxygen (for documentation)
 
-## License
-
-MIT
